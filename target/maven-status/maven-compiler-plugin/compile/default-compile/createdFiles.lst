@@ -1,0 +1,4 @@
+com\srp\controller\ChatAiController.class
+com\srp\controller\HomeController.class
+com\srp\service\ChatAIService.class
+com\srp\SpringAiDeepseekApplication.class
